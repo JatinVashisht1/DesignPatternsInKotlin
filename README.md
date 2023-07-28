@@ -18,7 +18,7 @@ In Android development, Design Patterns are equally important. They help in buil
 
 Below is a list of different design patterns implemented in this repository:
 
-1. [Abstract Factory Design Pattern](src/main/kotlin/creationalDesignPatterns/abstractFactory/README.md)
+1. [Abstract Factory Design Pattern](src/main/kotlin/creationalDesignPatterns/abstractFactory)
 
 ---
 Please note that this repository is a work in progress, and more design patterns will be added soon. Each design pattern folder contains its respective implementation and a detailed README explaining the concept and usage of the pattern. Happy coding!
